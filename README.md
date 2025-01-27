@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pranav 
-- 👀 I’m interested in Learning Python, and various other Python modules and other languages
-- 🌱 I’m currently learning Python (Intermediate Proficiency)
+- 👀 I’m interested in Learning Java, and various other Java modules and other languages like Python, JavaScript
+- 🌱 I’m currently learning Java Full Stack and aiming for complete mastery.
 - 💞️ I’m looking to collaborate on nothing at the moment 
 - 📫 How to reach me via my Email pranavanchan24@gmail.com
 
